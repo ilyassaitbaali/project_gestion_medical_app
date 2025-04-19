@@ -1,1 +1,0 @@
-# project_gestion_medical_app
